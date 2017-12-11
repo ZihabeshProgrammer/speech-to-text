@@ -1,0 +1,3 @@
+# speech-to-text
+
+This is an android sphinix example for changing a speech too text...

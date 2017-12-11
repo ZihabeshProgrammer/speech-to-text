@@ -1,0 +1,5 @@
+<root>
+    <item name='android.drm.DrmStore.Playback STOP'>
+        <annotation name='java.lang.Deprecated' />
+    </item>
+</root>

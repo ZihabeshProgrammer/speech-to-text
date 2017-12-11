@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">SpeechtoText2</string>
+    <string name="action_settings">Settings</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="my_string">Record</string>
+    <string name="my_string2">press Record and speek </string>
+    <string name="my_string3">Android PocketSphinx Implementation \n\n List of words:\n\n Hello\n World\n Food\n
+     Ethiopia\n And \n Come \n Go \n Coffee \n Red</string>
+</resources>
